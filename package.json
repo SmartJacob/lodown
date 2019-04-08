@@ -1,0 +1,27 @@
+{
+  "name": "lodown-smartjacob",
+  "version": "1.0.0",
+  "description": "This is Jacob Smart's lodown project",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "istanbul cover _mocha -- test/ -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmartJacob/lodown.git"
+  },
+  "keywords": [
+    "operation",
+    "spawrk",
+    "lodown"
+  ],
+  "author": "Jacob Smart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SmartJacob/lodown/issues"
+  },
+  "homepage": "https://github.com/SmartJacob/lodown#readme"
+}
